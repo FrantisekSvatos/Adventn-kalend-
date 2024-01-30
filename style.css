@@ -1,0 +1,29 @@
+body{
+    background-color: darkseagreen;
+}
+
+h1{
+    text-align: center;
+    color: green;
+    font-size: 60px;
+}
+
+h2{
+    text-align: center;
+    color: green;
+    font-size: 40px;
+}
+
+ul{
+    list-style-type: circle;
+}
+
+a{
+    text-decoration: none;
+    font-size: 25px;
+}
+
+p{
+    font-size: 25px;
+    color: green;
+}
